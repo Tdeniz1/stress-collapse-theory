@@ -5,6 +5,7 @@ Vasovagal syncope, more commonly known as the fainting reflex, is typically view
 
 ## 📄 Full Paper
 - [Download PDF](./Paper.pdf)
+- Download is not supported by Safari Browser
 
 ## 🔖 Citation (AMA Style)
 Turk D. *Fainting to Survive: An Evolutionary Hypothesis of Vasovagal Syncope as a Social Signal*. 2025.  
