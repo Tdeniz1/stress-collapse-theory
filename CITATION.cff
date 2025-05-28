@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this paper, please cite it as below."
+authors:
+  - family-names: Turk
+    given-names: Deniz
+title: "Fainting to Survive: An Evolutionary Hypothesis of Vasovagal Syncope as a Social Signal"
+version: 1.0
+doi: 10.5281/zenodo.15531834
+date-released: 2025-05-28
+license: CC-BY-4.0
